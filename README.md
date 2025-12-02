@@ -18,7 +18,6 @@ You can also refer to [How to build](#how-to-build) to compile it yourself.
 
 ## Usage
 
-![ui](https://github.com/user-attachments/assets/b1d5112e-3bcb-44c2-8c9b-d43669285cfd)
 
 ### Windows
 
