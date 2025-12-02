@@ -16,9 +16,6 @@ You can also refer to [How to build](#how-to-build) to compile it yourself.
 + This program is intended for personal research use only.
 + **All risks are assumed by the user**.
 
-## Usage
-
-
 ### Windows
 
 + Right-click on the executable file and run it in administrator mode.
